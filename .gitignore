@@ -1,3 +1,6 @@
 __pycache__
 .env
 .learn
+.vscode
+.venv
+perdrizet_solution.ipynb
